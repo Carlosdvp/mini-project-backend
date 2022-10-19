@@ -1,0 +1,29 @@
+{
+  "name": "mini-project-backend",
+  "version": "1.0.0",
+  "description": "In order to become a better full stack developer it is necessary to have an in-depth understanding of the main technologies used by Trio in the current project. Those are: typescript, typeorm, Node with express, and MySql for the DB. And a good understanding of Docker is also recommended.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlosdvp/mini-project-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carlosdvp/mini-project-backend/issues"
+  },
+  "homepage": "https://github.com/Carlosdvp/mini-project-backend#readme",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "reflect-metadata": "^0.1.13",
+    "typeorm": "^0.3.10",
+    "typescript": "^4.8.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.2"
+  }
+}
